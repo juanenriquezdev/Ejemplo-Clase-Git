@@ -1,2 +1,3 @@
 Hola mi nombre es Juan
 Tengo 3 mascotas : milanesa, princesita y locochon
+Mis pasatiempos son ir al gym, hacer zumba y practicar sql
